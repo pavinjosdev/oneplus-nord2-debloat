@@ -19,7 +19,6 @@ pm install-existing --user 0 com.oplus.synergy
 pm install-existing --user 0 com.oplus.athena
 pm install-existing --user 0 com.oplus.location
 pm install-existing --user 0 com.oplus.locationproxy
-pm install-existing --user 0 com.oplus.nhs
 pm install-existing --user 0 com.oplus.postmanservice
 pm install-existing --user 0 com.oplus.safecenter
 pm install-existing --user 0 com.oplus.encryption
@@ -29,6 +28,16 @@ pm install-existing --user 0 com.oplus.battery
 pm install-existing --user 0 com.oplus.qualityprotect
 pm install-existing --user 0 com.oplus.apprecover
 pm install-existing --user 0 com.oplus.statistics.rom
-pm install-existing --user 0 com.oplus.interconnectcollectkit
 pm install-existing --user 0 com.oplus.ocloud
 pm install-existing --user 0 com.oplus.games
+pm install-existing --user 0 com.oppo.quicksearchbox
+pm install-existing --user 0 com.coloros.scenemode
+pm install-existing --user 0 com.coloros.activation
+pm install-existing --user 0 com.coloros.weather.service
+pm install-existing --user 0 com.coloros.floatassistant
+pm install-existing --user 0 com.coloros.childrenspace
+pm install-existing --user 0 com.coloros.smartsidebar
+pm install-existing --user 0 com.coloros.systemclone
+pm install-existing --user 0 com.coloros.operationManual
+pm install-existing --user 0 com.coloros.assistantscreen
+pm install-existing --user 0 com.coloros.bootreg

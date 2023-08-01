@@ -19,7 +19,6 @@ pm uninstall -k --user 0 com.oplus.synergy
 pm uninstall -k --user 0 com.oplus.athena
 pm uninstall -k --user 0 com.oplus.location
 pm uninstall -k --user 0 com.oplus.locationproxy
-pm uninstall -k --user 0 com.oplus.nhs
 pm uninstall -k --user 0 com.oplus.postmanservice
 pm uninstall -k --user 0 com.oplus.safecenter
 pm uninstall -k --user 0 com.oplus.encryption
@@ -29,6 +28,16 @@ pm uninstall -k --user 0 com.oplus.battery
 pm uninstall -k --user 0 com.oplus.qualityprotect
 pm uninstall -k --user 0 com.oplus.apprecover
 pm uninstall -k --user 0 com.oplus.statistics.rom
-pm uninstall -k --user 0 com.oplus.interconnectcollectkit
 pm uninstall -k --user 0 com.oplus.ocloud
 pm uninstall -k --user 0 com.oplus.games
+pm uninstall -k --user 0 com.oppo.quicksearchbox
+pm uninstall -k --user 0 com.coloros.scenemode
+pm uninstall -k --user 0 com.coloros.activation
+pm uninstall -k --user 0 com.coloros.weather.service
+pm uninstall -k --user 0 com.coloros.floatassistant
+pm uninstall -k --user 0 com.coloros.childrenspace
+pm uninstall -k --user 0 com.coloros.smartsidebar
+pm uninstall -k --user 0 com.coloros.systemclone
+pm uninstall -k --user 0 com.coloros.operationManual
+pm uninstall -k --user 0 com.coloros.assistantscreen
+pm uninstall -k --user 0 com.coloros.bootreg
